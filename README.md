@@ -9,9 +9,13 @@ The event is organised at SkyServe, Bangalore
 #### Agenda:
 
 10:00 - 10:15 - Introduction to the event and host organisation
+
 10:15 - 11:00 - Arya Pratap Singh, Edge Computing : The future of space based computations
+
 11:00 - 11:15 - Introduction of audience
+
 11:15 - 12:00 - Parag Ramteke, Applications of remote sensing in fisheries
+
 12:00 - 12:45 - D Rupesh Kumar, Making AI Models Edge Ready
 
 Location:
