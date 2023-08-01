@@ -21,6 +21,7 @@ The event is organised at SkyServe, Bangalore
 Location:
 2nd floor, Kamala Dev Towers, 791, 35th Cross Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011
 
+YouTube Video https://www.youtube.com/live/caupGivN2uU
 visit https://letstalkspatial.in/
 
 RSVP Link
